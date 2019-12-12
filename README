@@ -1,0 +1,2 @@
+Celsius to Fahrenheit is a simple app, presenting how to use a Swing JList Component and the MVC architecture.
+One of its assumptions was to show in a JFrame a Celsius to Fahrenheit calculation for a closed interval of numbers <-70;60>
